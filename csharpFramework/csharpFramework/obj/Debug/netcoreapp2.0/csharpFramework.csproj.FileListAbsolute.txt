@@ -1,0 +1,11 @@
+/Users/wanglidong/work/csharpFramework/csharpFramework/csharpFramework/obj/Debug/netcoreapp2.0/csharpFramework.csprojResolveAssemblyReference.cache
+/Users/wanglidong/work/csharpFramework/csharpFramework/csharpFramework/obj/Debug/netcoreapp2.0/csharpFramework.csproj.CoreCompileInputs.cache
+/Users/wanglidong/work/csharpFramework/csharpFramework/csharpFramework/obj/Debug/netcoreapp2.0/csharpFramework.AssemblyInfoInputs.cache
+/Users/wanglidong/work/csharpFramework/csharpFramework/csharpFramework/obj/Debug/netcoreapp2.0/csharpFramework.AssemblyInfo.cs
+/Users/wanglidong/work/csharpFramework/csharpFramework/csharpFramework/bin/Debug/netcoreapp2.0/csharpFramework.deps.json
+/Users/wanglidong/work/csharpFramework/csharpFramework/csharpFramework/bin/Debug/netcoreapp2.0/csharpFramework.runtimeconfig.json
+/Users/wanglidong/work/csharpFramework/csharpFramework/csharpFramework/bin/Debug/netcoreapp2.0/csharpFramework.runtimeconfig.dev.json
+/Users/wanglidong/work/csharpFramework/csharpFramework/csharpFramework/bin/Debug/netcoreapp2.0/csharpFramework.dll
+/Users/wanglidong/work/csharpFramework/csharpFramework/csharpFramework/bin/Debug/netcoreapp2.0/csharpFramework.pdb
+/Users/wanglidong/work/csharpFramework/csharpFramework/csharpFramework/obj/Debug/netcoreapp2.0/csharpFramework.dll
+/Users/wanglidong/work/csharpFramework/csharpFramework/csharpFramework/obj/Debug/netcoreapp2.0/csharpFramework.pdb
